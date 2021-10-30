@@ -23,6 +23,6 @@ Progects
 
 test-description:
 
-[![Header](https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/31-10-21.png)](https://github.com/NikolayN-ru/full-stack-app-react-django)<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/31-10-21.png" width="100" />
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/31-10-21.png" width="300" />](https://github.com/NikolayN-ru/full-stack-app-react-django)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolayn-ru)](https://github.com/anuraghazra/github-readme-stats)
