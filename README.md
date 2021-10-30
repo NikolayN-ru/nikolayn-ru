@@ -1,14 +1,4 @@
-Header
-
-Progects
-
-# It's beginner project
-
-1.  [![Header](https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/30-10-21.png)](https://github.com/NikolayN-ru/full-stack-app-react-django)
-
-Follow me
-Languages and Tools
-стек технологий:
+Languages and Tools:
 
 ![python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python)
 ![django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django)
@@ -20,3 +10,13 @@ Languages and Tools
 ![babel](https://img.shields.io/badge/babel-000?style=for-the-badge&logo=babel)
 ![docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
 ![css3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3)
+
+contacts:
+
+[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/napadaylonikolay/)
+
+Progects
+
+# It's beginner project
+
+1.  [![Header](https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/30-10-21.png)](https://github.com/NikolayN-ru/full-stack-app-react-django)
