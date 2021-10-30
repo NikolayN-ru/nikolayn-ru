@@ -5,6 +5,8 @@ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-cccdce?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-cccdce?style=for-the-badge&logo=TypeScript)
 ![node.js](https://img.shields.io/badge/node.js-cccdce?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-cccdce?style=for-the-badge&logo=Express)
+![Next.js](https://img.shields.io/badge/Next.js-cccdce?style=for-the-badge&logo=Next.js)
 ![React](https://img.shields.io/badge/React-cccdce?style=for-the-badge&logo=React)
 ![webpack](https://img.shields.io/badge/webpack-cccdce?style=for-the-badge&logo=webpack)
 ![babel](https://img.shields.io/badge/babel-cccdce?style=for-the-badge&logo=babel)
@@ -19,4 +21,8 @@ Progects
 
 # It's beginner project
 
-1.  [![Header](https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/30-10-21.png)](https://github.com/NikolayN-ru/full-stack-app-react-django)
+test-description:
+
+[![Header](https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/30-10-21.png)](https://github.com/NikolayN-ru/full-stack-app-react-django)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolayn-ru)](https://github.com/anuraghazra/github-readme-stats)
