@@ -1,4 +1,4 @@
-Languages and Tools:
+Languages and Tools
 
 ![python](https://img.shields.io/badge/PYTHON-cccdce?style=for-the-badge&logo=python)
 ![django](https://img.shields.io/badge/django-cccdce?style=for-the-badge&logo=django)
