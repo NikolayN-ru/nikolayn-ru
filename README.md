@@ -2,7 +2,6 @@ Languages and Tools
 
 ![python](https://img.shields.io/badge/PYTHON-cccdce?style=for-the-badge&logo=python)
 ![django](https://img.shields.io/badge/django-cccdce?style=for-the-badge&logo=django)
-![JavaScript](https://img.shields.io/badge/JavaScript-cccdce?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-cccdce?style=for-the-badge&logo=TypeScript)
 ![Next.js](https://img.shields.io/badge/Next.js-cccdce?style=for-the-badge&logo=Next.js)
 ![React](https://img.shields.io/badge/React-cccdce?style=for-the-badge&logo=React)
