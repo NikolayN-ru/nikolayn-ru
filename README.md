@@ -14,7 +14,7 @@ contacts:
 
 Progects
 
-# It's beginner project
+# It's pet project
 
 test-description:
 
