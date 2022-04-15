@@ -8,7 +8,7 @@ Languages and Tools
 
 contacts:
 
-[![vk](https://img.shields.io/badge/instagram-cccdce?style=for-the-badge&logo=vk)](https://vk.com/napadaylo)
+[![vk](https://img.shields.io/badge/vk-cccdce?style=for-the-badge&logo=vk)](https://vk.com/napadaylo)
 
 Progects
 
