@@ -10,14 +10,14 @@ Languages and Tools
 
 contacts:
 
-[![instagram](https://img.shields.io/badge/instagram-cccdce?style=for-the-badge&logo=instagram)](https://www.instagram.com/napadaylonikolay/)
+[![vk](https://img.shields.io/badge/instagram-cccdce?style=for-the-badge&logo=instagram)](https://vk.com/napadaylo)
 
 Progects
 
-# It's pet project
+# pet-project-2
 
-test-description:
+description:
 
-[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/31-10-21.png" width="300" />](https://github.com/NikolayN-ru/full-stack-app-react-django)
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/technical2.png" width="300" />](https://github.com/NikolayN-ru/full-stack-app-react-django)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolayn-ru)](https://github.com/anuraghazra/github-readme-stats)
