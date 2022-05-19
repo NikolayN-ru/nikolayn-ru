@@ -17,5 +17,7 @@ Progects
 description:
 
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/technical2.png" width="300" />](https://github.com/NikolayN-ru/technical-2)
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/tree.png" width="300" />](https://github.com/NikolayN-ru/figma-landing-3)
+link - https://nikolayn-ru.github.io/figma-landing-3
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolayn-ru)](https://github.com/anuraghazra/github-readme-stats)
