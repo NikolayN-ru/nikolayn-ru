@@ -15,6 +15,9 @@ my Progects:
 # next/redux/saga
 
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/technical2.png" width="300" />](https://github.com/NikolayN-ru/technical-2)
+
+#
+
 https://technical-2-crjy-covqw68jq-nikolayn-ru.vercel.app/board
 
 #
@@ -26,6 +29,9 @@ https://technical-2-crjy-covqw68jq-nikolayn-ru.vercel.app/board
 # react-landing
 
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/tree.png" width="300" />](https://github.com/NikolayN-ru/figma-landing-3)
+
+#
+
 https://nikolayn-ru.github.io/figma-landing-3
 
 #
