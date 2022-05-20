@@ -12,14 +12,20 @@ contacts:
 
 Progects
 
-# next-project-2
-
+# next/redux/saga
 description:
-
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/technical2.png" width="300" />](https://github.com/NikolayN-ru/technical-2)
 
-# react-project-2
+# full stack app -  Django/Postgresql/Nextjs/Nginx/Docker  !!
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/full.png" width="300" />](https://github.com/NikolayN-ru/things2-3)
+
+# react-landing
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/tree.png" width="300" />](https://github.com/NikolayN-ru/figma-landing-3)
+# link
+ https://nikolayn-ru.github.io/figma-landing-3
+
+ # landing-css
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/landing1.png" width="300" />](https://github.com/NikolayN-ru/11-html)
 # link
  https://nikolayn-ru.github.io/figma-landing-3
 
