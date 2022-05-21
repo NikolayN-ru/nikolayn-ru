@@ -12,7 +12,7 @@ contacts:
 
 my Progects:
 
-# next/redux/saga
+# TypeScript/Nextjs/Redux/Saga
 
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/technical2.png" width="300" />](https://github.com/NikolayN-ru/technical-2)
 
