@@ -12,6 +12,12 @@ contacts:
 
 my Progects:
 
+# task2-apiCats-react
+
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/cats.png" width="300" />](https://github.com/NikolayN-ru/task2-api-cats-react)
+
+#
+
 # TypeScript/Nextjs/Redux/Saga
 
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/technical2.png" width="300" />](https://github.com/NikolayN-ru/technical-2)
