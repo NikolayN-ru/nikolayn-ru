@@ -10,7 +10,13 @@ contacts:
 
 [![vk](https://img.shields.io/badge/vk-cccdce?style=for-the-badge&logo=vk)](https://vk.com/napadaylo)
 
-my Progects:
+my pet-Progects:
+
+# diplom-project
+
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/diplom.png" width="300" />](https://github.com/NikolayN-ru/diplom-project)
+
+#
 
 # task2-apiCats-react
 
