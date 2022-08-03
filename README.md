@@ -12,7 +12,7 @@ contacts:
 
 my pet-Progects:
 
-# diplom-project
+# diplom-project/typescript/python/docker
 
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/diplom.png" width="300" />](https://github.com/NikolayN-ru/diplom-project)
 
