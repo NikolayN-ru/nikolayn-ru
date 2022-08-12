@@ -12,7 +12,7 @@ contacts:
 
 my pet-Progects:
 
-# React18/styled-components
+# react18 / typescript / styled-components
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/144.png" width="300" />](https://github.com/NikolayN-ru/store-project)
 #
 
@@ -22,7 +22,7 @@ my pet-Progects:
 
 #
 
-# task2-apiCats-react
+# task2-apiCats- react / axios / typescript
 
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/cats.png" width="300" />](https://github.com/NikolayN-ru/task2-api-cats-react)
 #
