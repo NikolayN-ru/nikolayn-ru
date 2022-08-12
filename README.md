@@ -14,6 +14,7 @@ my pet-Progects:
 
 # React18/styled-components
 https://github.com/NikolayN-ru/store-project
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/144.png" width="300" />](https://github.com/NikolayN-ru/store-project)
 #
 
 # diplom-project/typescript/python/docker
