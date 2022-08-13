@@ -16,6 +16,10 @@ my pet-Progects:
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/144.png" width="300" />](https://github.com/NikolayN-ru/store-project)
 #
 
+# task-3-calendar/react18 / typescript / styled-components
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/calendar.png" width="300" />](https://github.com/NikolayN-ru/task-2-calendar)
+#
+
 # diplom-project/typescript/python/docker
 
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/diplom.png" width="300" />](https://github.com/NikolayN-ru/diplom-project)
