@@ -12,7 +12,7 @@ contacts:
 
 my pet-Progects:
 
-# react18 / typescript / styled-components
+# NestJs / react18 / typescript / styled-components / Docker
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/144.png" width="300" />](https://github.com/NikolayN-ru/Nestjs-React-server)
 #
 
