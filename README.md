@@ -12,7 +12,7 @@ contacts:
 
 my pet-Progects:
 
-# NestJs:9.0 / React:18 / Styled-components / Docker
+# NestJS/ React/ Toolkit/ Mongo/ Styled-components/ Docker
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/144.png" width="300" />](https://github.com/NikolayN-ru/Nestjs-React-server)
 #
 
