@@ -16,6 +16,12 @@ my pet-Progects:
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/144.png" width="300" />](https://github.com/NikolayN-ru/Nestjs-React-server)
 #
 
+# task-5-kino-react / typescript
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/kino.png" width="300" />](https://github.com/NikolayN-ru/task-5_kino_ticket)
+#
+https://kino44.herokuapp.com
+#
+
 # task-3-calendar-react18 / typescript / styled-components
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/calendar.png" width="300" />](https://github.com/NikolayN-ru/task-2-calendar)
 #
