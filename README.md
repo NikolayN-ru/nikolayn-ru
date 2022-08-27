@@ -69,4 +69,4 @@ https://nikolayn-ru.github.io/figma-landing-3
 
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/landing1.png" width="300" />](https://github.com/NikolayN-ru/11-html)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolayn-ru&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolayn-ru&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
