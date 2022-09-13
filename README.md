@@ -12,6 +12,11 @@ contacts:
 
 my pet-Progects:
 
+# Nodejs/ node-telegram-bot-api/ Postgresql/ Docker
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/bot1.jpeg" width="300" />](https://github.com/NikolayN-ru/task6_Telegram-bot-nodejs-)
+#
+https://github.com/NikolayN-ru/task6_Telegram-bot-nodejs-
+
 # NestJS/ React/ Toolkit/ Mongo/ Styled-components/ Docker
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/144.png" width="300" />](https://github.com/NikolayN-ru/Nestjs-React-server)
 #
