@@ -12,11 +12,6 @@ contacts:
 
 my pet-Progects:
 
-# Expo / ReactNative
-[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/mobile2.jpeg" width="300" />](https://github.com/NikolayN-ru/mobile-app-two)
-#
-https://github.com/NikolayN-ru/mobile-app-two
-
 # Nodejs/ node-telegram-bot-api/ Postgresql/ Docker
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/bot2.png" width="300" />](https://github.com/NikolayN-ru/task6_Telegram-bot-nodejs-)
 #
