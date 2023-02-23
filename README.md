@@ -11,6 +11,11 @@ contacts:
 [![vk](https://img.shields.io/badge/vk-cccdce?style=for-the-badge&logo=vk)](https://vk.com/napadaylo)
 
 my pet-Progects:
+# верстка / Webpack / Scss
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/kamin.jpg" width="300" />](https://github.com/NikolayN-ru/layout-html-8)
+#
+https://nikolayn-ru.github.io/layout-html-8/dist/index.html
+#
 
 # верстка / Webpack / Scss
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/template-html-6.jpg" width="300" />](https://github.com/NikolayN-ru/layout-html-6)
