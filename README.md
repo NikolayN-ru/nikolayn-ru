@@ -1,13 +1,16 @@
 Languages and Tools
+
 ![django](https://img.shields.io/badge/django-cccdce?style=for-the-badge&logo=django)
 ![TypeScript](https://img.shields.io/badge/TypeScript-cccdce?style=for-the-badge&logo=TypeScript)
 ![Next.js](https://img.shields.io/badge/Next.js-cccdce?style=for-the-badge&logo=Next.js)
 ![docker](https://img.shields.io/badge/docker-cccdce?style=for-the-badge&logo=docker)
 ![scss](https://img.shields.io/badge/css3-cccdce?style=for-the-badge&logo=css3)
+
 contacts:
+
 [![vk](https://img.shields.io/badge/vk-cccdce?style=for-the-badge&logo=vk)](https://vk.com/napadaylo)
-#
-💻 Codewars:  [![codewars](https://www.codewars.com/users/nikolay055/badges/large)](https://www.codewars.com/users/nikolay055)
+
+[![codewars](https://www.codewars.com/users/nikolay055/badges/large)](https://www.codewars.com/users/nikolay055)
 #
 my pet-Progects:
 # верстка / Webpack / Scss
