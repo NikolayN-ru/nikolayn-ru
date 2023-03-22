@@ -6,10 +6,6 @@ Languages and Tools
 ![docker](https://img.shields.io/badge/docker-cccdce?style=for-the-badge&logo=docker)
 ![scss](https://img.shields.io/badge/css3-cccdce?style=for-the-badge&logo=css3)
 
-contacts:
-
-[![vk](https://img.shields.io/badge/vk-cccdce?style=for-the-badge&logo=vk)](https://vk.com/napadaylo)
-
 [![codewars](https://www.codewars.com/users/nikolay055/badges/large)](https://www.codewars.com/users/nikolay055)
 # верстка / Webpack / Scss
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/kamin.jpg" width="300" />](https://github.com/NikolayN-ru/layout-html-8)
@@ -65,7 +61,6 @@ https://nikolayn-ru.github.io/task2-api-cats-react/
 #
 
 https://technical-2-crjy-covqw68jq-nikolayn-ru.vercel.app/board
-
 #
 
 # full stack app - Django/Postgresql/Nextjs/Nginx/Docker
