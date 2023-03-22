@@ -3,20 +3,20 @@
 ![Next.js](https://img.shields.io/badge/Next.js-cccdce?style=for-the-badge&logo=Next.js)
 ![docker](https://img.shields.io/badge/docker-cccdce?style=for-the-badge&logo=docker)
 ![scss](https://img.shields.io/badge/css3-cccdce?style=for-the-badge&logo=css3)
-
+#
 [![codewars](https://www.codewars.com/users/nikolay055/badges/large)](https://www.codewars.com/users/nikolay055)
 верстка/Webpack/Scss
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/kamin.jpg" width="300" />](https://github.com/NikolayN-ru/layout-html-8)
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/template-html-6.jpg" width="300" />](https://github.com/NikolayN-ru/layout-html-6)
-
+#
 https://nikolayn-ru.github.io/layout-html-8/dist/index.html
 https://nikolayn-ru.github.io/layout-html-6/dist/index.html
 #
-
 React-ts/Toolkit/magazine | Nodejs/node-telegram-bot-api/Postgresql/Docker
 #
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/task8.png" width="300" />](https://github.com/NikolayN-ru/task-8-magazine)
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/bot2.png" width="300" />](https://github.com/NikolayN-ru/task6_Telegram-bot-nodejs-)
+#
 https://github.com/NikolayN-ru/task6_Telegram-bot-nodejs-
 
 NestJS/React/Toolkit/Mongo/Styled-components/Docker
@@ -25,6 +25,7 @@ NestJS/React/Toolkit/Mongo/Styled-components/Docker
 #
 
 react/typescript | calendar react/typescript/styled-components
+#
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/kino.png" width="300" />](https://github.com/NikolayN-ru/task-5_kino_ticket)
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/calendar.png" width="300" />](https://github.com/NikolayN-ru/task-2-calendar)
 #
