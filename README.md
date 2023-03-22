@@ -12,12 +12,15 @@
 https://nikolayn-ru.github.io/layout-html-8/dist/index.html
 https://nikolayn-ru.github.io/layout-html-6/dist/index.html
 #
+
 React-ts/Toolkit/magazine | Nodejs/node-telegram-bot-api/Postgresql/Docker
+#
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/task8.png" width="300" />](https://github.com/NikolayN-ru/task-8-magazine)
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/bot2.png" width="300" />](https://github.com/NikolayN-ru/task6_Telegram-bot-nodejs-)
 https://github.com/NikolayN-ru/task6_Telegram-bot-nodejs-
 
 NestJS/React/Toolkit/Mongo/Styled-components/Docker
+#
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/144.png" width="300" />](https://github.com/NikolayN-ru/Nestjs-React-server)
 #
 
