@@ -84,6 +84,6 @@ https://technical-2-crjy-covqw68jq-nikolayn-ru.vercel.app/board
 https://nikolayn-ru.github.io/figma-landing-3
 #
 💻 Codewars:  
-![codewars](https://www.codewars.com/users/nikolay055/badges/large)](https://www.codewars.com/users/nikolay055)   
+[![codewars](https://www.codewars.com/users/nikolay055/badges/large)](https://www.codewars.com/users/nikolay055)]
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolayn-ru&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
