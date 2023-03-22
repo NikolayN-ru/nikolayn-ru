@@ -38,6 +38,8 @@ task2-apiCats-react/axios/typescript
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/cats.png" width="300" />](https://github.com/NikolayN-ru/task2-api-cats-react)
 
 https://nikolayn-ru.github.io/task2-api-cats-react/
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/tree.png" width="300" />](https://github.com/NikolayN-ru/figma-landing-3)
+
 
 TypeScript/Nextjs/Redux/Saga | Django/Postgresql/Nextjs/Nginx/Docker
 
@@ -45,11 +47,6 @@ TypeScript/Nextjs/Redux/Saga | Django/Postgresql/Nextjs/Nginx/Docker
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/full.png" width="300" />](https://github.com/NikolayN-ru/things2-3)
 
 https://technical-2-crjy-covqw68jq-nikolayn-ru.vercel.app/board
-
-react-landing
-
-[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/tree.png" width="300" />](https://github.com/NikolayN-ru/figma-landing-3)
-
 https://nikolayn-ru.github.io/figma-landing-3
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolayn-ru&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
