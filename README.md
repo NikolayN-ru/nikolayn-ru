@@ -7,12 +7,13 @@
 [![codewars](https://www.codewars.com/users/nikolay055/badges/large)](https://www.codewars.com/users/nikolay055)
 # верстка / Webpack / Scss
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/kamin.jpg" width="300" />](https://github.com/NikolayN-ru/layout-html-8)
+[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/template-html-6.jpg" width="300" />](https://github.com/NikolayN-ru/layout-html-6)
 #
 https://nikolayn-ru.github.io/layout-html-8/dist/index.html
 #
-[<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/template-html-6.jpg" width="300" />](https://github.com/NikolayN-ru/layout-html-6)
-#
 https://nikolayn-ru.github.io/layout-html-6/dist/index.html
+#
+
 #
 # React -ts/ Toolkit / magazine
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/task8.png" width="300" />](https://github.com/NikolayN-ru/task-8-magazine)
