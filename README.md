@@ -2,7 +2,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-cccdce?style=for-the-badge&logo=TypeScript)
 ![Next.js](https://img.shields.io/badge/Next.js-cccdce?style=for-the-badge&logo=Next.js)
 ![docker](https://img.shields.io/badge/docker-cccdce?style=for-the-badge&logo=docker)
-![scss](https://img.shields.io/badge/css3-cccdce?style=for-the-badge&logo=css3)
 #
 [![codewars](https://www.codewars.com/users/nikolay055/badges/large)](https://www.codewars.com/users/nikolay055)
 #
