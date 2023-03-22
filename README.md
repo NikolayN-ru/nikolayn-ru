@@ -1,5 +1,3 @@
-Languages and Tools
-
 ![django](https://img.shields.io/badge/django-cccdce?style=for-the-badge&logo=django)
 ![TypeScript](https://img.shields.io/badge/TypeScript-cccdce?style=for-the-badge&logo=TypeScript)
 ![Next.js](https://img.shields.io/badge/Next.js-cccdce?style=for-the-badge&logo=Next.js)
@@ -59,7 +57,6 @@ https://nikolayn-ru.github.io/task2-api-cats-react/
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/technical2.png" width="300" />](https://github.com/NikolayN-ru/technical-2)
 
 #
-
 https://technical-2-crjy-covqw68jq-nikolayn-ru.vercel.app/board
 #
 
