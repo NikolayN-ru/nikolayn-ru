@@ -36,10 +36,9 @@ https://calendar-3.herokuapp.com
 task2-apiCats-react/axios/typescript
 
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/cats.png" width="300" />](https://github.com/NikolayN-ru/task2-api-cats-react)
-
-https://nikolayn-ru.github.io/task2-api-cats-react/
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/tree.png" width="300" />](https://github.com/NikolayN-ru/figma-landing-3)
 
+https://nikolayn-ru.github.io/task2-api-cats-react/
 
 TypeScript/Nextjs/Redux/Saga | Django/Postgresql/Nextjs/Nginx/Docker
 
