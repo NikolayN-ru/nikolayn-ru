@@ -53,4 +53,4 @@ react-landing
 https://nikolayn-ru.github.io/figma-landing-3
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolayn-ru&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![NikolayN-ru Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayN-ru&layout=compact&count_private=true&theme=gruvbox)
+<!-- ![NikolayN-ru Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayN-ru&layout=compact&count_private=true&theme=gruvbox) -->
