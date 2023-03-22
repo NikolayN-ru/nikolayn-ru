@@ -1,15 +1,14 @@
 Languages and Tools
-
 ![django](https://img.shields.io/badge/django-cccdce?style=for-the-badge&logo=django)
 ![TypeScript](https://img.shields.io/badge/TypeScript-cccdce?style=for-the-badge&logo=TypeScript)
 ![Next.js](https://img.shields.io/badge/Next.js-cccdce?style=for-the-badge&logo=Next.js)
 ![docker](https://img.shields.io/badge/docker-cccdce?style=for-the-badge&logo=docker)
 ![scss](https://img.shields.io/badge/css3-cccdce?style=for-the-badge&logo=css3)
-
 contacts:
-
 [![vk](https://img.shields.io/badge/vk-cccdce?style=for-the-badge&logo=vk)](https://vk.com/napadaylo)
-
+#
+💻 Codewars:  [![codewars](https://www.codewars.com/users/nikolay055/badges/large)](https://www.codewars.com/users/nikolay055)
+#
 my pet-Progects:
 # верстка / Webpack / Scss
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/kamin.jpg" width="300" />](https://github.com/NikolayN-ru/layout-html-8)
@@ -80,10 +79,6 @@ https://technical-2-crjy-covqw68jq-nikolayn-ru.vercel.app/board
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/tree.png" width="300" />](https://github.com/NikolayN-ru/figma-landing-3)
 
 #
-
 https://nikolayn-ru.github.io/figma-landing-3
-#
-💻 Codewars:  
-[![codewars](https://www.codewars.com/users/nikolay055/badges/large)](https://www.codewars.com/users/nikolay055)]
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolayn-ru&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
