@@ -7,6 +7,8 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Nikolay707.png" alt="TryHackMe">
 
+![Arrexel](https://www.hackthebox.eu/badge/image/1124412)
+
 #
 верстка/Webpack/Scss
 
