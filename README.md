@@ -7,8 +7,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Nikolay707.png" alt="TryHackMe">
 
-![Arrexel](https://www.hackthebox.eu/badge/image/1124412)
-
 #
 верстка/Webpack/Scss
 
@@ -55,3 +53,5 @@ https://nikolayn-ru.github.io/figma-landing-3
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolayn-ru&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![NikolayN-ru Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayN-ru&layout=compact&count_private=true&theme=gruvbox) -->
+
+![Arrexel](https://www.hackthebox.eu/badge/image/1124412)
