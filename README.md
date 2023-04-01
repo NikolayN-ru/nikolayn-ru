@@ -7,6 +7,10 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Nikolay707.png" alt="TryHackMe">
 
+![Example usage](https://raw.githubusercontent.com/SkiddieTech/HTB-HDBadgeGenerator/master/assets/Example.PNG)
+
+![Example usage](https://raw.githubusercontent.com/NikolayN/HTB-HDBadgeGenerator/master/assets/Example.PNG)
+
 #
 верстка/Webpack/Scss
 
