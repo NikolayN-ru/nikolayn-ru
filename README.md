@@ -7,6 +7,8 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Nikolay707.png" alt="TryHackMe">
 
+<img src="https://tryhackme.com/Nikolay707/badges/owasp-10" alt="hack">
+
 #
 верстка/Webpack/Scss
 
