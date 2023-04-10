@@ -5,7 +5,7 @@
 #
 [![codewars](https://www.codewars.com/users/nikolay055/badges/large)](https://www.codewars.com/users/nikolay055)
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/Nikolay707.png" alt="TryHackMe">](https://tryhackme.com/r/badges)
+[<img src="https://tryhackme-badges.s3.amazonaws.com/Nikolay707.png" alt="TryHackMe">](https://tryhackme.com/p/Nikolay707)
 
 #
 верстка/Webpack/Scss
