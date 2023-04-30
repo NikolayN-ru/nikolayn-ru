@@ -44,8 +44,6 @@ TypeScript/Nextjs/Redux/Saga | Django/Postgresql/Nextjs/Nginx/Docker
 https://technical-2-crjy-covqw68jq-nikolayn-ru.vercel.app/board
 https://nikolayn-ru.github.io/figma-landing-3
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolayn-ru&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![NikolayN-ru Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayN-ru&layout=compact&count_private=true&theme=gruvbox) -->
 верстка/Webpack/Scss
 #
 [<img src="https://github.com/NikolayN-ru/nikolayn-ru/blob/main/assets/kamin.jpg" width="300" />](https://github.com/NikolayN-ru/layout-html-8)
@@ -54,4 +52,6 @@ https://nikolayn-ru.github.io/figma-landing-3
 https://nikolayn-ru.github.io/layout-html-8/dist/index.html
 https://nikolayn-ru.github.io/layout-html-6/dist/index.html
 #
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolayn-ru&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![NikolayN-ru Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayN-ru&layout=compact&count_private=true&theme=gruvbox) -->
 ![Arrexel](https://www.hackthebox.eu/badge/image/1124412)
