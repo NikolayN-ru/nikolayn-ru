@@ -30,8 +30,8 @@
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&amp;logo=webpack&amp;logoColor=black" alt="Webpack"> 
 </p>
 
-<div align="center">[![codewars](https://www.codewars.com/users/nikolay055/badges/large)](https://www.codewars.com/users/nikolay055)</div>
-<div align="center">[<img src="https://tryhackme-badges.s3.amazonaws.com/Nikolay707.png" alt="TryHackMe">](https://tryhackme.com/p/Nikolay707) </div>
+[![codewars](https://www.codewars.com/users/nikolay055/badges/large)](https://www.codewars.com/users/nikolay055)
+[<img src="https://tryhackme-badges.s3.amazonaws.com/Nikolay707.png" alt="TryHackMe">](https://tryhackme.com/p/Nikolay707)
 
 #
 
